@@ -5,9 +5,9 @@ There is no area of mathematics that data scientists use more frequently than st
 
 Goals:
   
-  o	Learn basic statistics, including mean, median, mode, and other important statistical measures.
+  -	Learn basic statistics, including mean, median, mode, and other important statistical measures.
   
-  o	Calculate basic probabilities to estimate the likelihood of events.
+  -	Calculate basic probabilities to estimate the likelihood of events.
   
-  o	Master basic hypothesis testing as it relates to the scientific process of working with data.
+  -	Master basic hypothesis testing as it relates to the scientific process of working with data.
 
